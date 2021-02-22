@@ -1,2 +1,2 @@
 # codes_data_mining
-the practice codes of Data Mining lecture
+the exercises' codes of Data Mining lecture
